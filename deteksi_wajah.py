@@ -3,7 +3,7 @@ import sys
 
 # Nama file gambar yang akan diproses.
 # Ganti dengan nama file gambarmu, contoh: 'keluarga.jpg'
-image_path = 'foto_orang.jpg'
+image_path = '2023-10-03T173106Z_1427262708_RC25L3A9IBH8_RTRMADP_3_SEPAKBOLA-JUARA-AFC-NSJ-ALH-LAPORAN-1729421782.jpg'
 
 # Nama file XML untuk model deteksi wajah
 cascade_path = 'haarcascade_frontalface_default.xml'
